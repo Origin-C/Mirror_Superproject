@@ -28,11 +28,13 @@ These are the different problem areas:
 
 1. **CAD** - 3D design of the robot. I will use my maxed-out skills of Tinkercad (engineers, don't laugh).
 2. **Electronics** - Finding suitable driver ICs, thermal management, physical wire connections & cable management, soldering (and desoldering), and PCB design. I will need to find myself a soldering iron...
-3. **Brainstem Code** - Data transmission, reception, sensor data collection and motor implementation. I will use C++.
-4. **Occipital Code** - Livestream camera 'eyes', transmission, reception, VR goggles implementation, maybe depth implementation. I will likely use Raspberry Pi. Hello Python, long time no see...
+3. **Brainstem Code**[^1] - Data transmission, reception, sensor data collection and motor implementation. I will use C++.
+4. **Occipital Code**[^1] - Livestream camera 'eyes', transmission, reception, VR goggles implementation, maybe depth implementation. I will likely use Raspberry Pi. Hello Python, long time no see...
 5. **User Textiles** - Sensor suit for the user, designed for comfort, sensor accuracy, and maximum range of movement. I will need to improve my sewing skills.
 6. **User Movement Negator** - The least-researched part so far. User must be able to walk/run/jump/do backflips with the robot but stay in the same place in real life. This is a huge issue a lot of the big VR companies are facing, so I have no idea if I can solve it...
+
 ### .
 ### .
 ### .
 That's all for the intro. Time to get to work!
+[^1]: For the non-psychologists, the brainstem is the part of the human brain that controls muscle movement (located at the top of your neck), and the occipital lobe is the part that controls vision (located at the back of your head)
