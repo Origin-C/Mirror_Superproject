@@ -3,4 +3,4 @@
 | Item | Cost |
 | --- | --- |
 | BMI270 Accelerometers *? | £? |
-| **Total** | £? |
+| **Total** | **£?** |
