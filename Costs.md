@@ -2,5 +2,5 @@
 
 | Item | Cost |
 | --- | --- |
-| BMI270 Accelerometers from Mouser *11 | £33 |
+| BMI270 Accelerometers from Mouser *14 | £42 |
 | **Total** | **£33** |
